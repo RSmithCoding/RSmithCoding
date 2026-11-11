@@ -1,6 +1,6 @@
 # Hi, I'm Russell 👋
 
-I spent 19 years in the flooring industry: managing a flooring shop, then working at a distributor, where I spent the last 9 years in the transport office sharing responsibility for drivers, the fleet and compliance. Along the way I started writing small programs to solve problems I saw at work, and I've been hooked on coding ever since.
+I spent 19 years in the flooring industry: managing a flooring shop, then working at a distributor, where I spent the last 9 years in the transport office sharing responsibility for drivers, the fleet and compliance. Along the way I started writing small programs to solve problems I saw at work, feeding a long time passion for coding.
 
 I'm now focusing on a career change into software development, learning and building as much as I can.
 
